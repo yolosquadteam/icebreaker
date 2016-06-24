@@ -12,7 +12,7 @@
 - [Story and Gameplay](#story-and-gameplay)
 	- [Story (Brief)](#story-brief)
 	- [Story (Detailed)](#story-detailed)
-	- [Gameplay (Brief)](#gameplay-breif)
+	- [Gameplay (Brief)](#gameplay-brief)
 	- [Gameplay (Detailed)](#gameplay-detailed)
 - [Assets Needed](#assets-needed)
 - [Schedule](#schedule)
