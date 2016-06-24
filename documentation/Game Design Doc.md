@@ -1,31 +1,26 @@
-INDEX
+# Game
 
-INDEX
-Overview
-Theme / Setting / Genre
-Targeted platforms
-Monetization model (Brief/Document)
-I dont think the final product will be ok for monetizing
-Project Scope
-Project Description (Brief):
-Project Description (Detailed)
-Story and Gameplay
-Story (Brief)
-Story (Detailed)
-Gameplay (Brief)
-Gameplay (Detailed)
-- Code
-- Animation
-Schedule
-- <Object #1>
-- <Object #2>
-- <Object #3>
-- <Object #4>
+### Index
 
-
-
-
-
+- Overview
+- Theme / Setting / Genre
+- Targeted platforms
+- Monetization model (Brief/Document)
+- Project Scope
+- Project Description (Brief):
+- Project Description (Detailed)
+- Story and Gameplay
+- Story (Brief)
+- Story (Detailed)
+- Gameplay (Brief)
+- Gameplay (Detailed)
+	- Code
+	- Animation
+- Schedule
+	- (Object #1)
+	- (Object #2)
+	- (Object #3)
+	- (Object #4)
 
 Overview
 
