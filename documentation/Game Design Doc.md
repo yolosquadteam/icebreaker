@@ -2,7 +2,7 @@
 
 ### Index
 
-- Overview
+- [Overview](#overview)
 - Theme / Setting / Genre
 - Targeted platforms
 - Monetization model (Brief/Document)
