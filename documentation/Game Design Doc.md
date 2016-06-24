@@ -17,77 +17,80 @@
 	- Code
 	- Animation
 - Schedule
-	- (Object #1)
-	- (Object #2)
-	- (Object #3)
-	- (Object #4)
+	- _(Object #1)_
+	- _(Object #2)_
+	- _(Object #3)_
+	- _(Object #4)_
 
-Overview
+## Overview
 
-Theme / Setting / Genre
+## Theme / Setting / Genre
 	2D Survival Game / Isometric View
-Targeted platforms
+## Targeted platforms
 	PC - Python
-Monetization model (Brief/Document)
+## Monetization model (Brief/Document)
 	No plans for monetization at this time.
-Project Scope 
+## Project Scope 
 	-We have 0 budget
 	-No time constraints
 	-3 members
 
 
-Project Description (Brief):
+## Project Description (Brief):
 
 This game will serve as the initial project of this group. The scale will need to be kept very reasonable to allow all members to make contributions. It will serve as a learning exercise in the realm of project management and modular programming. Games of any reasonable size require a significant amount of planning, and we can use this opportunity to get a handle on the design patterns that are used frequently in the industry.
 
 In line with the idea of learning modular programming, many outside libraries and tools may be sourced. At this point, Pygame will definitely be used, but we may look towards other tools that have better GUI support. Using outside libraries will exercise all member’s ability to read and make sense of professional level API documentation.
 Project Description (Detailed)
 
-<Four Paragraphs or more If needs be>
-<No more than six paragraphs>
+_(Four Paragraphs or more If needs be)_
+_(No more than six paragraphs)_
 
 
-Story and Gameplay
+## Story and Gameplay
 
-Story (Brief)
+### Story (Brief)
 
-<The Summary or TL;DR version of below>
-Story (Detailed)
+_(The Summary or TL;DR version of below)_
 
-<Go into as much detail as needs be>
-<Spare no detail>
-<Use Mind Mapping software to get your point across>
+### Story (Detailed)
 
-Gameplay (Brief)
-<The Summary version of below>
-Gameplay (Detailed)
-<Go into as much detail as needs be>
-<Spare no detail>
-<Combine this with the game mechanics section above>
+_(Go into as much detail as needs be)_
+_(Spare no detail)_
+_(Use Mind Mapping software to get your point across)_
+
+### Gameplay (Brief)
+_(The Summary version of below)_
+
+### Gameplay (Detailed)
+_(Go into as much detail as needs be)_
+_(Spare no detail)_
+_(Combine this with the game mechanics section above)_
 
 Assets Needed
 - 2D
 	- Textures
 		- Environment Textures
 		- Characters
-                  - Items
-                  - 
-	- Characters List
-		- Main Character
-		- Maybe we could add other characters depending on the story
-		
-	- Sound
-	- Sound List (Ambient)
-		- Outside
-			- Level 1
-			- Level 2 
-			- Level 3
-			- etc.
-		- Inside
-			- Level 1
-			- Level 2
-			- Level 3
-			- etc.
+            - Items
+            - _(etc)_
+
+- Characters List
+	- Main Character
+	- Maybe we could add other characters depending on the story
+	
+- Sound
+- Sound List (Ambient)
+	- Outside
+		- Level 1
+		- Level 2 
+		- Level 3
+		- etc.
+	- Inside
+		- Level 1
+		- Level 2
+		- Level 3
+		- etc.
 
 
 - Sound List (Player)
