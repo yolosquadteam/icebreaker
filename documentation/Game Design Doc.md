@@ -3,24 +3,19 @@
 ### Index
 
 - [Overview](#overview)
-- Theme / Setting / Genre
-- Targeted platforms
-- Monetization model (Brief/Document)
-- Project Scope
-- Project Description (Brief):
-- Project Description (Detailed)
-- Story and Gameplay
-- Story (Brief)
-- Story (Detailed)
-- Gameplay (Brief)
-- Gameplay (Detailed)
-	- Code
-	- Animation
-- Schedule
-	- _(Object #1)_
-	- _(Object #2)_
-	- _(Object #3)_
-	- _(Object #4)_
+- [Theme / Setting / Genre](#theme--setting--genre)
+- [Targeted platforms](#targeted-platforms)
+- [Monetization model (Brief/Document)](#monetization-model-briefdocument)
+- [Project Scope](#project-scope)
+- [Project Description (Brief):](#project-description-brief)
+- [Project Description (Detailed)](#project-description-detailed)
+- [Story and Gameplay](#story-and-gameplay)
+	- [Story (Brief)](#story-brief)
+	- [Story (Detailed)](#story-detailed)
+	- [Gameplay (Brief)](#gameplay-breif)
+	- [Gameplay (Detailed)](#gameplay-detailed)
+- [Assets Needed](#assets-needed)
+- [Schedule](#schedule)
 
 ---
 
@@ -138,20 +133,23 @@ _(Combine this with the game mechanics section above)_
 		- Example
 		- etc.
 
-- Schedule
-	- Time Scale
-		- Milestone 1
-		- Milestone 2
-		- Etc.
-	- Time Scale
-		- Milestone 1
-		- Milestone 2
-		- Etc.
-	- Time Scale
-		- Milestone 1
-		- Milestone 2
-		- Etc.
-	- Time Scale
-		- Milestone 1
-		- Milestone 2
-		- Etc.
+---
+
+## Schedule
+
+- Time Scale
+	- Milestone 1
+	- Milestone 2
+	- Etc.
+- Time Scale
+	- Milestone 1
+	- Milestone 2
+	- Etc.
+- Time Scale
+	- Milestone 1
+	- Milestone 2
+	- Etc.
+- Time Scale
+	- Milestone 1
+	- Milestone 2
+	- Etc.
