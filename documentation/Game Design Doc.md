@@ -26,7 +26,7 @@ _(Overview)_
 ---
 
 ## Theme / Setting / Genre
-2D Survival Game / Isometric View
+2D Survival Game / Isometric View / 8 or 16 bit 
 	
 ## Targeted platforms
 PC - Python
