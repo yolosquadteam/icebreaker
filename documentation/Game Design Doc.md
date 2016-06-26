@@ -57,7 +57,7 @@ _(No more than six paragraphs)_
 
 ### Story (Brief)
 
-<p>*Option 1*:
+<p>**Option 1**:
       You crash on a strange planet, survive </p>
 <p>Option 2:
       You shipwreck on an island, but that island might not be what it looks like.</p>
