@@ -59,14 +59,14 @@ _(No more than six paragraphs)_
 
 <p>Option 1:
       You crash on a strange planet, survive </p>
-Option 2:
-      You shipwreck on an island, but that island might not be what it looks like. 
-Option 3:
-      You wake up from what seemed a strange comma. You go out and everything seems to be deserted for quite some time. Theres no sign of life. Αs you walk walk through the desertness, you hear something move.
-Option 4:
-      What seems like an EMP blast has rendered useless all electronics in you area. You and others set out to survive, make friends/groups ,enemies, in an enviroment where everyone fights for survival and maybe you can find what caused the blast and put a stop to it.
-Option 5:
-      Classical zombie apocalypse
+<p>Option 2:
+      You shipwreck on an island, but that island might not be what it looks like.</p>
+<p>Option 3:
+      You wake up from what seemed a strange comma. You go out and everything seems to be deserted for quite some time. Theres no sign of life. Αs you walk walk through the desertness, you hear something move.</p>
+<p>Option 4:
+      What seems like an EMP blast has rendered useless all electronics in you area. You and others set out to survive, make friends/groups ,enemies, in an enviroment where everyone fights for survival and maybe you can find what caused the blast and put a stop to it.</p>
+<p>Option 5:
+      Classical zombie apocalypse</p>
 
 ### Story (Detailed)
 
